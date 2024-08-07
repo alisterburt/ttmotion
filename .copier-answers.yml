@@ -1,0 +1,12 @@
+# Do not edit - changes here will be overwritten by Copier
+_commit: v1
+_src_path: gh:pydev-guide/pyrepo-copier
+author_email: alisterburt@gmail.com
+author_name: Alister Burt
+github_username: teamtomo
+mode: tooling
+module_name: ttmotion
+project_name: ttmotion
+project_short_description: Inter-frame motion estimation and correction for cryo-EM
+    images.
+
